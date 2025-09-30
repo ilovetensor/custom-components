@@ -14,6 +14,7 @@ git clone https://github.com/ilovetensor/custom-components.git
 cd custom-components
 ```
 
+> Note: Make sure that `__init__.py` in each components has `RELEASE = True` to run the component independently without the frontend session, just form the `build` directory.
 **Step 2**
 Test the Image Cropper:
 ```
