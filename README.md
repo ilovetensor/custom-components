@@ -2,8 +2,8 @@
 Streamlit custom components and designing tricks. 
 
 #### Directories: 
-- `/my_component2`: This dir contains the **Image Cropper** custom component.
-- `/my_component`: This dir contains the simple **Button Click Demonstration** using custom component feature.
+- `/my_component`: This dir contains the **Image Cropper** custom component.
+- `/my_component2`: This dir contains the simple **Button Click Demonstration** using custom component feature.
 - `/custom-components`: This is a clone from the original Streamlit provided template to create custom components. It is recommended to follow this [link](https://docs.streamlit.io/develop/concepts/custom-components/intro) and test the steps given in the tutorial to better understand the logic and working.
 
 #### Setup Instructions: 
